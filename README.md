@@ -66,7 +66,7 @@ This project presents an end-to-end Sales Performance Analytics solution develop
 
 ### Sales Insights
 
-![Sales Insights](Sales Dahboard.png)
+![Sales Insights](DashDashboard_Screenshots/Sales_Insights.png)
 
 ---
 
