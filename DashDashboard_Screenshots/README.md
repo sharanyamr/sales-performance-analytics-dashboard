@@ -1,1 +1,1 @@
-Dashboard Screnshos
+Dashboard Screnshots
