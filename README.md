@@ -62,7 +62,7 @@ This project presents an end-to-end Sales Performance Analytics solution develop
 
 ### Executive Dashboard
 
-![Executive Dashboard](Sales Dahboard.png)
+![Executive Dashboard](DashDashboard_Screenshots/Executive_Dashboard.png)
 
 ### Sales Insights
 
